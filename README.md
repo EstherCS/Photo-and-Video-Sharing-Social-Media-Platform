@@ -1,4 +1,4 @@
-# Around
+# Photo and Video-Sharing Social Media Platform
 A Photo and Video-Sharing Social Media Platform
 1. Designed a geo-based social network with React JS framework.
 2. Implemented token-based registration/login/logout flow with React Router v4 and user authentication with JWT.
